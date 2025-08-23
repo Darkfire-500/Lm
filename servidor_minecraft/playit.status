@@ -1,12 +1,3930 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mGot Error
-MSG: Failed to setup tunnel client
-Error: RequestError(ParseError(Error("invalid type: string \"AgentDisabledOverLimit\", expected unit", line: 1, column: 48), 400, "{\"status\":\"fail\",\"data\":\"AgentDisabledOverLimit\"}"))
-[2J8[0mGot Error
-MSG: Failed to setup tunnel client
-Error: RequestError(ParseError(Error("invalid type: string \"AgentDisabledOverLimit\", expected unit", line: 1, column: 48), 400, "{\"status\":\"fail\",\"data\":\"AgentDisabledOverLimit\"}"))
-[2J8[0mGot Error
-MSG: Failed to setup tunnel client
-Error: RequestError(ParseError(Error("invalid type: string \"AgentDisabledOverLimit\", expected unit", line: 1, column: 48), 400, "{\"status\":\"fail\",\"data\":\"AgentDisabledOverLimit\"}"))
-[2J8[0mGot Error
-MSG: Final attempted failed to setup tunnel
-Error: RequestError(ParseError(Error("invalid type: string \"AgentDisabledOverLimit\", expected unit", line: 1, column: 48), 400, "{\"status\":\"fail\",\"data\":\"AgentDisabledOverLimit\"}"))
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.16.2): 1755901234995 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901238086 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901241215 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901244313 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901247406 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901250506 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901253604 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901256705 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901259798 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901262908 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901266009 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901269105 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901272197 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901275291 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901278385 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901281475 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901284609 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901287698 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901290787 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901293881 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901296980 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901300071 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901303159 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901306248 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901309343 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901312450 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901315549 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901318641 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901321748 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901324843 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901327936 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901331028 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901334129 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901337222 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901340316 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901343406 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901346498 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901349590 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901352697 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901355792 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901358890 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901361982 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901365080 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901368175 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901371262 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901374351 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901377442 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901380535 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901383643 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901386737 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901389830 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901392925 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901396022 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901399110 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901402200 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901405289 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901408382 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901411482 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901414577 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901417673 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901420765 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901423863 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901426954 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901430041 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901433156 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901436251 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901439340 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901442435 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901445530 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901448619 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901451732 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901454826 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901457927 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901461022 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901464115 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901467213 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901470326 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901473420 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901476511 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901479610 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901482709 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901485806 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901488905 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901492001 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901495091 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901498193 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901501287 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901504393 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901507485 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901510576 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901513674 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901516773 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901519866 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901522965 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901526060 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901529156 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901532254 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901535363 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901538456 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901541558 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901544665 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901547769 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901550872 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901553977 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901557068 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901560169 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901563263 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901566356 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901569449 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901572578 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901575670 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901578765 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901581858 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901584957 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901588085 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901591179 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901594273 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901597375 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901600473 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901603572 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901606662 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901609752 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901612841 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901615934 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901619024 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901622123 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901625214 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901628335 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901631423 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901634518 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901637608 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901640697 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901643786 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901646883 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901649979 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901653072 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901656166 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901659256 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901662354 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901665444 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901668541 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901671635 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901674739 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901677830 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901680922 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901684015 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901687118 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901690213 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901693303 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901696402 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901699496 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901702586 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901705683 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901708785 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901711879 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901714968 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901718061 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901721154 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901724243 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901727334 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901730429 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901733521 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901736613 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901739701 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901742799 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901745890 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901748982 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901752072 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901755182 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901758279 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901761370 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901764468 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901767560 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901770650 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901773744 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901776850 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901779946 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901783039 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901786135 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901789249 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901792364 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901795456 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901798554 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901801649 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901804740 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901807839 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901810938 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901814034 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901817126 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901820223 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901823318 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901826405 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901829495 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901832590 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901835702 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901838794 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901841883 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901844974 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901848079 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901851166 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901854258 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901857370 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901860474 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901863564 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901866662 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901869778 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901872871 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901875961 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901879064 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901882155 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901885256 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901888356 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901891449 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901894548 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901897638 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901900733 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901903829 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901906919 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901910015 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901913110 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901916200 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901919296 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901922402 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901925511 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901928602 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901931717 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901934818 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901937915 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901941011 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901944099 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901947205 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901950312 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901953407 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901956506 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901959599 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901962695 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901965802 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901968902 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901971997 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901975093 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901978198 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901981290 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901984395 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901987500 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901990594 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901993685 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901996785 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755901999877 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902002972 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902006066 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902009158 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902012257 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902015355 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902018457 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902021565 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902024669 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902027769 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902030867 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902033958 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902037050 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902040145 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902043236 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902046328 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902049424 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902052518 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902055671 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902058765 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902061857 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902064950 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902068056 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902071149 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902074245 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902077343 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902080431 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902083525 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902086621 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902089715 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902092818 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902095915 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902099005 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902102110 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902105205 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902108298 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902111394 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902114491 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902117588 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902120680 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902123823 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902126922 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902130026 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902133123 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902136214 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902139315 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902142413 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902145515 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902148608 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902151713 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902154814 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902157906 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902160994 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902164093 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902167186 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902170281 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902173404 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902176495 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902179599 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902182734 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902185824 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902188941 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902192067 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902195166 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902198274 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902201372 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902204477 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902207588 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902210702 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902213811 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902216939 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902220033 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902223152 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902226306 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902229399 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902232496 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902235616 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902238723 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902241862 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902244961 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902248092 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902251208 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902254300 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902257389 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902260493 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902263589 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902266702 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902269813 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902272909 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902276011 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902279108 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902282207 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902285306 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902288400 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902291490 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902294578 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902297670 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902300765 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902303862 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902306967 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902310057 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902313144 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902316236 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902319350 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902322438 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902325529 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902328627 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902331726 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902334819 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902337910 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902341001 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902344096 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902347209 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902350304 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902353405 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902356507 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902359598 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902362689 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902365882 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902368983 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902372076 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902375171 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902378266 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902381357 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902384449 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902387538 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902390627 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902393717 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902396808 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902399902 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902403001 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902406091 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902409195 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902412295 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902415389 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902418481 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902421573 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902424665 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902427771 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902430867 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902433962 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902437051 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902440152 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902443243 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902446341 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902449429 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902452520 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902455620 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902458714 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902461819 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902464913 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902468008 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902471105 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902474199 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902477315 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902480408 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902483508 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902486608 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902489705 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902492806 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902495899 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902498988 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902502081 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902505200 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902508297 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902511397 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902514487 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902517578 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902520669 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902523764 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902526857 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902529955 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902533048 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902536141 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902539246 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902542335 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902545451 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902548542 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902551634 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902554729 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902557841 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902560940 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902564040 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902567139 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902570230 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902573319 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902576416 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902579508 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902582599 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902585702 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902588797 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902591892 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902594979 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902598078 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902601173 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902604275 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902607394 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902610486 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902613578 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902616669 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902619761 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902622852 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902625942 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902629045 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902632143 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902635239 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902638333 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902641429 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902644520 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902647616 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902650705 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902653802 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902656894 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902659985 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902663081 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902666176 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902669275 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902672368 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902675472 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902678577 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902681677 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902684767 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902687859 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902690950 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902694040 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902697133 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902700227 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902703315 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902706413 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902709508 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902712609 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902715706 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902718797 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902721891 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902724983 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902728077 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902731173 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902734264 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902737358 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902740478 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902743567 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902746663 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902749750 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902752845 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902755940 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902759049 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902762152 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902765247 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902768351 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902771446 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902774559 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902777651 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902780750 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902783858 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902786949 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902790039 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902793143 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902796238 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902799332 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902802456 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902805562 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902808662 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902811755 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902814847 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902817939 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902821031 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902824123 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902827215 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902830322 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902833415 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902836514 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902839603 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902842702 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902845802 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902848911 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902852017 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902855110 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902858198 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902861293 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902864393 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902867486 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902870591 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902873679 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902876774 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902879869 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902882971 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902886074 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902889164 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902892263 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902895365 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902898468 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902901561 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902904665 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902907764 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902910858 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902913959 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902917054 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902920147 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902923235 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902926330 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902929422 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902932515 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902935628 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902938724 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902941818 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902944914 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902948005 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902951096 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902954188 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902957295 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902960485 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902963580 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902966672 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902969762 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902972862 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902975958 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902979057 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902982150 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902985261 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902988356 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902991454 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902994546 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755902997651 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755903000745 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755903003840 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755903006932 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755903010040 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755903013128 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755903016224 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755903019351 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755903022439 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755903025543 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755903028655 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755903031747 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755903034838 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755903037930 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755903041026 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755903044136 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755903047225 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755903050326 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755903053423 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755903056516 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755903059612 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755903062705 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755903065802 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755903068897 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755903072002 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755903075095 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755903078191 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755903081285 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755903084385 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755903087479 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755903090574 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755903093667 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755903096760 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755903099855 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755903102950 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755903106044 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755903109142 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755903112239 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755903115333 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755903118423 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755903121517 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755903124638 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755903127736 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755903130844 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755903133946 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755903137051 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755903140145 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755903143253 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755903146350 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755903149439 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755903152539 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755903155636 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755903158725 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755903161821 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755903164922 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755903168012 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755903171108 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755903174201 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755903177299 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755903180396 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755903183501 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755903186590 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755903189683 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755903192774 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755903196094 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755903199190 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755903202285 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755903205425 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755903208520 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755903211625 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755903214725 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755903217818 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755903220929 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755903224021 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755903227115 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755903230214 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755903233311 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755903236433 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755903239529 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755903242620 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755903245738 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755903248840 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755903251943 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755903255041 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755903258139 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755903261236 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+her-arbitrary.gl.at.ply.gg:5262 => 127.0.0.1:19132 (minecraft-bedrock)
+via-lottery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
